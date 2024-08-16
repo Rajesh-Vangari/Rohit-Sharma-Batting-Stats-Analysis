@@ -1,7 +1,8 @@
 Rohit Sharma Batting Stats Analysis
 
 
-![image](https://github.com/user-attachments/assets/65df223c-d9ad-455c-aad0-1796bbb4d6b0)                   
+![image](https://github.com/user-attachments/assets/65df223c-d9ad-455c-aad0-1796bbb4d6b0)      ![image](https://github.com/user-attachments/assets/6dfa419e-8b2b-4eb5-9054-70160639a22d)
+              
 
 
 
