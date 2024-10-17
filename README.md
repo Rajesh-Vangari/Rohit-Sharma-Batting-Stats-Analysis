@@ -1,4 +1,4 @@
-Rohit Sharma Batting Stats Analysis
+<h2 style="color:black;">Rohit Sharma Batting Stats Analysis</h2>
 
 <p float="left"> <img src="https://github.com/user-attachments/assets/dd9de437-5604-4786-90d7-52ddd95707b9" width="400" style="margin-right: 30px;" /> </p>
 
