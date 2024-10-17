@@ -13,7 +13,9 @@ Image Gathering: Player images and team logos were sourced from the ICC Cricket 
 
 Data Preparation: SQL was used to clean and preprocess the data, ensuring it was in a format suitable for analysis in Power BI.
 
-<h2 style="color:black;">2. SQL for Data Analysis</h2> I utilized **SQL** for in-depth analysis of Rohit Sharma's batting statistics, focusing on:
+<h2 style="color:black;">2. SQL for Data Analysis</h2> 
+
+I utilized **SQL** for in-depth analysis of Rohit Sharma's batting statistics, focusing on:
 
 Aggregating Performance Metrics: Total runs, centuries, and average by format.
 
@@ -21,7 +23,9 @@ Format-wise Breakdown: Separate stats for Tests, ODIs, T20Is, and IPL.
 
 Comparative Analysis: Identifying trends and key performance indicators.
 
-<h2 style="color:black;">3. Power BI Reports</h2>  Developed a dynamic Power BI dashboard that offers an interactive analysis of Rohit Sharma's batting stats:
+<h2 style="color:black;">3. Power BI Reports</h2>  
+
+Developed a dynamic Power BI dashboard that offers an interactive analysis of Rohit Sharma's batting stats:
 
 Performance Overview: This section highlights his total runs, batting average, strike rate, and centuries across all formats. 🏏📈
 
@@ -31,7 +35,9 @@ Interactive Dashboards: Users can explore specific metrics and trends using filt
 
 Visual Enhancements: Player images and team logos make the dashboard visually engaging.
 
-<h2 style="color:black;">4. Insights & Analysis</h2> The Power BI dashboard provides actionable insights into Rohit Sharma's performance:
+<h2 style="color:black;">4. Insights & Analysis</h2> 
+
+The Power BI dashboard provides actionable insights into Rohit Sharma's performance:
 
 Comparative Format Analysis: Identifying strengths across different formats.
 
@@ -39,7 +45,9 @@ Trends in Batting Performance: Uncovering patterns in his career growth.
 
 Format-specific Insights: How Rohit excels in specific formats, and where there's room for improvement.
 
-<h2 style="color:black;">Getting Started</h2> To explore the Power BI dashboard:
+<h2 style="color:black;">Getting Started</h2> 
+
+To explore the Power BI dashboard:
 
 Clone this repository to your local machine.
 
