@@ -1,5 +1,8 @@
 Rohit Sharma Batting Stats Analysis
-<p float="left"> <img src="https://github.com/user-attachments/assets/dd9de437-5604-4786-90d7-52ddd95707b9" width="400" style="margin-right: 30px;" /> </p>
+<p float="left"> <img src="https://github.com/user-attachments/assets/dd9de437-5604-4786-90d7-52ddd95707b9" width="400" style="margin-right: 30px;" />
+<img src="![image](https://github.com/user-attachments/assets/94b9d7ca-53d2-478f-ae33-aa6bf860b980)
+" width="400" style="margin-right: 30px;" />
+</p>
 
 Welcome to my latest project, where I combine my passion for cricket with data analysis and visualization using Power BI. 📊🏏
 
