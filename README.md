@@ -3,20 +3,25 @@ Rohit Sharma Batting Stats Analysis
 
 Welcome to my latest project, where I combine my passion for cricket with data analysis and visualization using Power BI. 📊🏏
 
-<h2 style="color:black;">Project Overview</h2> Rohit Sharma has had an illustrious career across multiple formats, including **Tests, ODIs, T20Is**, and the **IPL**. This project aims to break down his batting statistics and present them through detailed visualizations. <h2 style="color:black;">1. Data Cleaning & Preprocessing</h2> **Data Collection**: I gathered detailed batting stats for Rohit Sharma from ESPNcricinfo, including runs scored, averages, strike rates, and centuries across Test, ODI, T20I formats, and the IPL. 🏆
+<h2 style="color:black;">Project Overview</h2> Rohit Sharma has had an illustrious career across multiple formats, including **Tests, ODIs, T20Is**, and the **IPL**. This project aims to break down his batting statistics and present them through detailed visualizations.
+
+<h2 style="color:black;">1. Data Cleaning & Preprocessing</h2>
+
+**Data Collection**: I gathered detailed batting stats for Rohit Sharma from ESPNcricinfo, including runs scored, averages, strike rates, and centuries across Test, ODI, T20I formats, and the IPL. 🏆
 
 Image Gathering: Player images and team logos were sourced from the ICC Cricket website to enhance the visuals of the report. 🖼
 
 Data Preparation: SQL was used to clean and preprocess the data, ensuring it was in a format suitable for analysis in Power BI.
 
 <h2 style="color:black;">2. SQL for Data Analysis</h2> I utilized **SQL** for in-depth analysis of Rohit Sharma's batting statistics, focusing on:
+
 Aggregating Performance Metrics: Total runs, centuries, and average by format.
 
 Format-wise Breakdown: Separate stats for Tests, ODIs, T20Is, and IPL.
 
 Comparative Analysis: Identifying trends and key performance indicators.
 
-<h2 style="color:black;">3. Power BI Reports</h2> I developed a dynamic Power BI dashboard that offers an interactive analysis of Rohit Sharma's batting stats:
+<h2 style="color:black;">3. Power BI Reports</h2>  Developed a dynamic Power BI dashboard that offers an interactive analysis of Rohit Sharma's batting stats:
 
 Performance Overview: This section highlights his total runs, batting average, strike rate, and centuries across all formats. 🏏📈
 
